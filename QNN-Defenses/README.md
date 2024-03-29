@@ -21,12 +21,6 @@ This repository allows the reproducibility of the results associated with the pa
 | run_pixel_defend_cifar.sh | Evaluates the adversarial robustness of ANNs/QNNs enhanced with Pixel Defend before the input layer |
 
 
-## Requirements
-- Python 3.9.18
-- TensorFlow 2.13.0
-- Remaining requirements are listed in requirements.txt
-
-
 ## Help and Support
 ### Communication
 - E-mail: miguel.costa@dei.uminho.pt

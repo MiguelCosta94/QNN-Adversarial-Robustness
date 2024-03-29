@@ -18,12 +18,6 @@ This repository allows the reproducibility of the results associated with the pa
 | see_results_tranferability_cifar.sh | Evaluates how adversarial examples crafted on floating-point ANNs transfer to QNNs (accuracy and distortion) |
 
 
-## Requirements
-- Python 3.9.18
-- TensorFlow 2.13.0
-- Remaining requirements are listed in requirements.txt
-
-
 ## Help and Support
 ### Communication
 - E-mail: miguel.costa@dei.uminho.pt
